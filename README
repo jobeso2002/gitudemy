@@ -1,0 +1,55 @@
+# Version del codigo 
+version v1.2.2
+
+# Cabecera H1
+## Cabecera H2
+### Cabecera H3
+
+Underline 1
+------------ 
+
+SOY UN README 
+
+Underline 2
+============
+
+
+# Listas
+ordenada
+1. primero en la lista
+2. segundo en la lista
+3. tercero en la lista
+desordenada
+- sesto en la lista
+- segundo en la lista
+- tercero en la lista
+
+# Links
+<a href="https://translate.google.com/?hl=es&tab=TT&sl=en&tl=es&op=translate">link</a>
+
+# Imagenes
+![imageges](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+
+# Code Snippets
+```JSON
+[{
+"title":"apple",
+"count":[12000,23000],
+"description":"descripción de cosa"
+},
+{
+"title":"orange",
+"count":[15000,22000],
+"description":"descripción de otra cosa"
+}]
+```
+
+# Tablas
+| nombre | apellido | documento |
+| ------ | -------- | --------- |
+| maxi   | Oviedo   | 312423423 |
+| tomas  | tompson  | 103243241 |
+
+ # Citas
+> se pone la cita.
+
