@@ -26,3 +26,27 @@ desordenada
 
 # Imagenes
 ![imageges](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+
+# Code Snippets
+```JSON
+[{
+"title":"apple",
+"count":[12000,23000],
+"description":"descripción de cosa"
+},
+{
+"title":"orange",
+"count":[15000,22000],
+"description":"descripción de otra cosa"
+}]
+```
+
+# Tablas
+| nombre | apellido | documento |
+| ------ | -------- | --------- |
+| maxi   | Oviedo   | 312423423 |
+| tomas  | tompson  | 103243241 |
+
+ # Citas
+> se pone la cita.
+
